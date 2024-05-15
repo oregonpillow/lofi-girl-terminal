@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-IMAGE_URL=https://media.tenor.com/1VEnfKkMGikAAAAd/lofi-girl-music.gif
+IMAGE_URL=https://i.pinimg.com/originals/4a/65/ab/4a65abeead3a8d113bccfee5d5d239f4.gif
 MUSIC_URL=https://www.youtube.com/watch\?v\=jfKfPfyJRdk
 
 # pre-requisities
